@@ -113,7 +113,7 @@ const AboutPage = () => {
           </a>
 
           <a
-            href="https://al-convayto.vercel.app"
+            href="https://convayto.vercel.app"
             className="flex items-center justify-center rounded-lg bg-textAccent px-6 py-3 text-white hover:bg-textAccentDim dark:bg-textAccentDim dark:hover:bg-textAccentDim-dark"
             rel="noopener noreferrer"
           >

@@ -114,7 +114,7 @@ const PrivacyPolicy = () => {
           <p>
             For questions about this Privacy Policy, please open an issue on our{" "}
             <a
-              href="https://github.com/DooOffc-Dev/Al-convayto"
+              href="https://github.com/CodeWithAlamin/Convayto"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:underline"
